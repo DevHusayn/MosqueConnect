@@ -50,3 +50,6 @@ This app includes a toggle to switch between Admin and Public modes. This switch
 When in Admin mode, you can add, edit, and delete announcements and access admin-only features. Public mode restricts these actions.
 
 The switch and admin banner are visible in the UI to make this clear to viewers and reviewers.
+
+## Here is the live link to the site.
+mosqueconnect.netlify.app
