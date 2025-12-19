@@ -52,4 +52,4 @@ When in Admin mode, you can add, edit, and delete announcements and access admin
 The switch and admin banner are visible in the UI to make this clear to viewers and reviewers.
 
 ## Here is the live link to the site.
-mosqueconnect.netlify.app
+(https://mosqueconnect.netlify.app)
